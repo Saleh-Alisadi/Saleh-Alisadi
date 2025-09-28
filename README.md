@@ -10,9 +10,9 @@
 - **Cloud & DevOps:** Azure, Docker  
 
 ## 🚀 Projects  
-🔹 [Banking System API](#) – Secure RESTful API for financial transactions  
-🔹 [E-Commerce Backend](#) – Scalable backend for an online store with authentication  
-🔹 [Monitoring System](#) – Real-time system monitoring using C# & SQL  
+🔹 py-task-tracker-cli  
+🔹 cs-shop-api
+🔹 web-portfolio
 
 ## 📊 GitHub Stats
 ![Saleh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saleh-Alisadi&show_icons=true&theme=radical)
