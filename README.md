@@ -14,9 +14,12 @@
 🔹 [E-Commerce Backend](#) – Scalable backend for an online store with authentication  
 🔹 [Monitoring System](#) – Real-time system monitoring using C# & SQL  
 
-## 📊 GitHub Stats  
-![Saleh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saleh_Alisadi&show_icons=true&theme=radical)  
+## 📊 GitHub Stats
+![Saleh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saleh-Alisadi&show_icons=true&theme=radical)
 
-## 📫 Contact Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/saleh-ali-sadi)  
-📧 **Email:** Saleh.alisadi66@gmail.com
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saleh-Alisadi&layout=compact)
+
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/saleh-ali-sadi
+Email: saleh.alisadi66@gmail.com
+
