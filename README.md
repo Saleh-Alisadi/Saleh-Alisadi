@@ -1,23 +1,55 @@
-# 👋 Hi, I'm Saleh Ali Sadi  
-**💻 Back-End Developer | Software Engineer**  
-📍 Toronto, Canada
+# Hi, I'm Saleh Ali Sadi
 
-## 🔧 Technologies & Skills
-- **Languages:** C#, JavaScript, Python
-- **Back-End:** .NET Core, ASP.NET, Node.js
-- **Databases:** SQL Server, MySQL
-- **Version Control:** Git, GitHub
-- **Cloud & DevOps:** Azure, Docker
+**IT Systems Administrator | Windows Server | Microsoft 365 | Azure Infrastructure**
 
-## 🚀 Projects
-- **Python CLI:** [py-task-tracker-cli](https://github.com/Saleh-Alisadi/py-task-tracker-cli)
-- **C# + SQL API:** [cs-shop-api](https://github.com/Saleh-Alisadi/cs-shop-api)
-- **Web:** [web-portfolio](https://github.com/Saleh-Alisadi/web-portfolio)
+IT professional focused on Windows Server administration, Active Directory, Microsoft 365, identity and access management, and Azure infrastructure.
 
-## 📊 GitHub Stats
-![Saleh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saleh-Alisadi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saleh-Alisadi&layout=compact)
+This GitHub profile showcases hands-on infrastructure labs, security configurations, troubleshooting scenarios, and technical documentation.
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/saleh-ali-sadi/
-- Email: [saleh.alisadi66@gmail.com](mailto:saleh.alisadi66@gmail.com)
+## Technical Skills
+
+### Systems & Infrastructure
+- Windows Server
+- Active Directory
+- Group Policy
+- DNS & DHCP
+- PowerShell
+- VMware Workstation
+
+### Microsoft 365 & Azure
+- Microsoft 365 Administration
+- Microsoft Entra ID
+- Microsoft Intune
+- Multi-Factor Authentication (MFA)
+- Azure Virtual Networks & NSGs
+- Azure Storage
+- Azure Role-Based Access Control (RBAC)
+
+### Networking & Security
+- TCP/IP
+- VPN
+- RDP
+- Network Access Controls
+- Troubleshooting
+
+### Programming & Databases
+- Python
+- C#
+- JavaScript
+- SQL Server
+- MySQL
+- Git & GitHub
+
+## Infrastructure Projects
+
+Hands-on projects covering Windows Server administration,
+Azure networking, cloud storage security, identity management,
+and enterprise IT operations.
+
+## Certifications
+
+Microsoft Certified: Microsoft 365 Fundamentals (MS-900)
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/saleh-ali-sadi/
