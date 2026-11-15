@@ -1,6 +1,6 @@
 # Hi, I'm Saleh Ali Sadi
 
-**IT Systems Administrator | Windows Server | Microsoft 365 | Azure Infrastructure**
+**IT Support Specialist | Systems Administrator | Microsoft 365, Entra ID, Intune | Windows Server & Active Directory**
 
 IT professional focused on Windows Server administration, Active Directory, Microsoft 365, identity and access management, and Azure infrastructure.
 
